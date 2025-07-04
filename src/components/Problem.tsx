@@ -1,3 +1,5 @@
+'use client';
+
 import { motion } from 'framer-motion';
 import { Clock, DollarSign, Users, AlertCircle } from 'lucide-react';
 

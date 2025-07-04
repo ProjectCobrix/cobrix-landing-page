@@ -1,3 +1,5 @@
+'use client';
+
 import { motion } from 'framer-motion';
 import { Brain, Network, Mail, Target, Zap, TrendingUp } from 'lucide-react';
 

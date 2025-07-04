@@ -1,3 +1,5 @@
+'use client';
+
 import { motion, useScroll } from 'framer-motion';
 import { ArrowUp } from 'lucide-react';
 import { useEffect, useState } from 'react';
